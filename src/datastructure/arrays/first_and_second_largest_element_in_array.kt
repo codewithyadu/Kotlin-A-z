@@ -1,7 +1,7 @@
 package datastructure.arrays
 
 fun main() {
-    val intArray = arrayOf(10, 324, 45, 90, 9808)
+    val intArray = arrayOf(12, 35, 1, 10, 34, 1)
     firstAndSecondMaxInArray(intArray)
 }
 
