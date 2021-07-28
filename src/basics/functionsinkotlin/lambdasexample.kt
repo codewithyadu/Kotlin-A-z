@@ -43,10 +43,10 @@ val lambda3: (Int)-> Unit = {print(Int)}
  * the parameter name explicitly.
  * The parameter is inferred as "it".
  */
-/*val numbers = arrayOf(1,2,3,4)
+val numbers = arrayOf(1,2,3,4)
 val lambdaWithSingleParameter = numbers.forEach {
     println(it)
-}*/
+}
 
 /**
  * Lambdas returning value
@@ -68,8 +68,8 @@ val value = {type: String ->
 /**
  * If the lambda parameter is unused, you can place an underscore instead of its name:
  */
-/*
-val nameMap = mapOf(1 to "Yadu", 2 to "Sushil", 3 to "Gireesh", 4 to "Kharbanda")
+
+val nameMap = mapOf(1 to "John", 2 to "Slack", 3 to "Dany", 4 to "Jack")
 val unusedParameterInsideMap = nameMap.forEach { _, value ->
     println(value)
-}*/
+}

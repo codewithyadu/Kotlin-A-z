@@ -24,7 +24,7 @@ fun removeDuplicates(intArray: Array<Int>) {
 
 /**
  * distinct() : it removes the duplicates and returns a list
- * toTypedArray : converts the list back to Array<Int
+ * toTypedArray : converts the list back to Array<Int>
  */
 fun removeDuplicatesUsingDistinct(intArray: Array<Int>) {
     val newArray: Array<Int> = intArray.distinct().toTypedArray()
