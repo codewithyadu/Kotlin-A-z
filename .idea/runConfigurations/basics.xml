@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="basics" type="JetRunConfigurationType" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="instagram.Employee" />
+    <module name="Kotlin A to Z" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
